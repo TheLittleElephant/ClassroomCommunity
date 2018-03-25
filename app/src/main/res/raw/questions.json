@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "question": "Qui a chanté la chanson 'Make Your Own Kind Of Music' ?",
+      "answers" : [
+        {
+          "label" : "Gilbert O' Sullivan",
+          "rightOrWrong" : false
+        },
+        {
+          "label" : "Carole King",
+          "rightOrWrong" : false
+        },
+        {
+          "label" : "Mama Cass",
+          "rightOrWrong" : true
+        },
+        {
+          "label" : "Cyril Hanouna",
+          "rightOrWrong" : false
+        }
+      ]
+    },
+    {
+      "question": "Quelle est l'année de sortie de l'album 'Thriller' de Michael Jackson ?",
+      "answers": [
+        {
+          "label" : "1982",
+          "rightOrWrong" : true
+        },
+        {
+          "label" : "1992",
+          "rightOrWrong" : false
+        },
+        {
+          "label" : "1981",
+          "rightOrWrong" : false
+        },
+        {
+          "label" : "1978",
+          "rightOrWrong" : false
+        }
+      ]
+    }
+  ]
+}

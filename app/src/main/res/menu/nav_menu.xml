@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_scancode"
+        android:icon="@drawable/ic_aspect_ratio_black_24dp"
+        android:title="@string/scanner_un_code" />
+
+    <item
+        android:id="@+id/nav_friends"
+        android:icon="@drawable/ic_friends"
+        android:title="@string/mes_amis" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/parametres" />
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_disconnect"
+        android:title="@string/se_deconnecter" />
+</menu>

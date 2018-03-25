@@ -1,0 +1,6 @@
+Services fournies par ClassroomCommunity
+
+    /classroom_server/showQrcode.php : Affiche le QR code et la liste des amis
+    /classroom_server/checkAttending.php?key=XXXX&id=YYYY : permet de marquer sa prÃ©sence
+    /classroom_server/getQuestions.php?key=XXXX : permet de rÃ©cupÃ©rer la liste des questions
+    /classroom_server/getFriends.php?key=XXXX : permet de rÃ©cupÃ©rer la liste des amis

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClassroomCommunity</string>
+    <string name="identifiant">Nome do Utilizador</string>
+    <string name="mot_de_passe">Palavra-chave</string>
+    <string name="se_connecter">Iniciar sessão</string>
+</resources>
